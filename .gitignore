@@ -3,3 +3,6 @@ en/*.csv
 en/*.xlsx
 new/*.csv
 new/*.xlsx
+
+# ignore saved models
+*.pt
