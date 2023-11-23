@@ -1,3 +1,5 @@
 # ignore datasets
 en/*.csv
 en/*.xlsx
+new/*.csv
+new/*.xlsx
